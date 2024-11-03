@@ -1,0 +1,1 @@
+<img src="image-min.png" alt="image" width="250"/>
