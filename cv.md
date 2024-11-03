@@ -1,4 +1,4 @@
-<img src="image-min.png" alt="image" width="250"/>
+<img src="image.png" alt="image" width="250"/>
 
 ## Maxim Krestyaninov
 
