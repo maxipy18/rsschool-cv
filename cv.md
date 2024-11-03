@@ -36,3 +36,17 @@ var moveZeros = function (arr) {
 ```
 
 [My GitHub](https://github.com/maxipy18)
+
+## Education
+
++ Academy of Law and Management of the Ministry of Justice of the Russian Federation.
++ Courses:
+    - Stepik:
+        + Web development for beginners: HTML and CSS
+        + JavaScript for beginners
+    - learning JavaScript on your own (learn.javascript.ru/ in progress)
+
+## Languages:
+
++ Russian - native
++ English - A1
